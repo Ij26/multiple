@@ -1,0 +1,3 @@
+[submodule "project1/paginated-posts"]
+	path = project1/paginated-posts
+	url = https://github.com/Ij26/multiple.git
